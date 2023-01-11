@@ -1,4 +1,4 @@
-const intern = require('/lib/ntern');
+const intern = require('/lib/intern');
 
 gmail("Can set university with constructor", () => {
   const gmailValue = "University of Utah";
